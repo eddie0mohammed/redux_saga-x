@@ -1,0 +1,8 @@
+
+
+export const REQUEST_HELLO_WORLD = 'REQUEST_HELLO_WORLD';
+export const RECEIVE_HELLO_WORLD = ' RECEIVE_HELLO_WORLD';
+
+
+export const REQUEST_DATA = 'REQUEST_DATA';
+export const RECEIVE_DATA = 'RECEIVE_DATA';
